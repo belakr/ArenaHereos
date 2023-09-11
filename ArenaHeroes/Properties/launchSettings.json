@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ArenaHeroes": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}
